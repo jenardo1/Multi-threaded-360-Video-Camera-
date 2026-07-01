@@ -1,0 +1,5 @@
+Notes:
+
++ The program is set to run preloaded videos for demonstration purposes during 199
++ The commented parts in main() allow for real-time webcam inputs to be used
++ If more than one webcam input is intended to be used, just add cap.read() lines and specify the indices for the different webcams
